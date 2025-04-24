@@ -4,10 +4,7 @@ This repository contains Java projects showcasing my skills with enterprise Java
 Technologies Used
 
 Java SE and EE
-Spring Framework (Spring Boot, Spring MVC, Spring Data)
-Hibernate/JPA
-JUnit/Mockito for testing
-Maven/Gradle build tools
+Gradle build tools
 JavaFX for desktop applications
 Android development
 
